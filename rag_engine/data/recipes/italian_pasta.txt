@@ -1,0 +1,23 @@
+Dish Name: Italian Pasta
+Cuisine: Italian
+
+Ingredients:
+- 200g pasta
+- 1 cup tomato sauce
+- 2 garlic cloves, minced
+- 1 tbsp olive oil
+- Salt to taste
+
+Steps:
+1. Boil pasta in salted water until al dente.
+2. Heat olive oil and sauté garlic.
+3. Add tomato sauce and simmer.
+4. Add cooked pasta and mix well.
+
+Cooking Time: 20 minutes
+Difficulty: Easy
+
+Authentic Tips:
+- Add fresh basil and Parmesan for authentic Italian flavour.
+
+

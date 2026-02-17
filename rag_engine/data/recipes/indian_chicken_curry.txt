@@ -1,0 +1,23 @@
+Dish Name: Indian Chicken Curry
+Cuisine: Indian
+
+Ingredients:
+- 500g chicken
+- 2 onions, chopped
+- 2 tomatoes, pureed
+- 1 tsp turmeric
+- 1.5 tsp red chilli powder
+- Salt to taste
+
+Steps:
+1. Heat oil and sauté onions.
+2. Add tomatoes and spices.
+3. Add chicken and cook.
+4. Add water and simmer until tender.
+
+Cooking Time: 40 minutes
+Difficulty: Medium
+
+Authentic Tips:
+- Use bone-in chicken for better flavour.
+

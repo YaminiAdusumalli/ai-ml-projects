@@ -1,0 +1,25 @@
+Dish Name: Mexican Chicken Tacos
+Cuisine: Mexican
+
+Ingredients:
+- 6 taco shells
+- 200g chicken, sliced
+- 1 onion, sliced
+- 1 tsp paprika
+- 1 tsp cumin powder
+- Salt to taste
+
+Steps:
+1. Cook chicken with paprika, cumin and salt.
+2. Warm taco shells in a pan.
+3. Fill shells with chicken and onions.
+
+Cooking Time: 15 minutes
+Difficulty: Easy
+
+Authentic Tips:
+- Add lime juice and fresh cilantro before serving.
+
+
+
+
